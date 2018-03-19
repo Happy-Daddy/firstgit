@@ -4,4 +4,4 @@ Today she eat some rice!
 She feels good.
 
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
