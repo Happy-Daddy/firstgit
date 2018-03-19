@@ -4,4 +4,4 @@ Today she eat some rice!
 She feels good.
 
 
-***fixed issue 101
+fixed issue 101
